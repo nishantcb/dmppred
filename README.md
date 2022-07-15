@@ -60,7 +60,7 @@ optional arguments:
 
 **Job:** User is allowed to choose between three different modules, such as, 1 for prediction, 2 for Designing and 3 for scanning, by default its 1.
 
-**Window length**: User can choose any pattern length between 9 and 22 in long sequences. This option is available for only scanning module.
+**Window length**: User can choose any pattern length between 8 and 30 in long sequences. This option is available for only scanning module.
 
 **Display type:** This option allow users to fetch either only diabetis causing peptides by choosing option 1 or prediction against all peptides by choosing option 2.
 
