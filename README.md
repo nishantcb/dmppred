@@ -29,7 +29,7 @@ usage: transfacpred.py [-h]
                        [-o OUTPUT]
 		       [-j {1,2,3}]
 		       [-t THRESHOLD]
-                       [-w {9,10,11,12,13,14,15,16,17,18,19,20,21,22}]
+                       [-w {8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30}]
 		       [-d {1,2}]
 ```
 ```
@@ -46,8 +46,8 @@ optional arguments:
                         Job Type: 1:Predict, 2: Design, 3:Scan, by default 1
   -t THRESHOLD, --threshold THRESHOLD
                         Threshold: Value between 0 to 1 by default 0.16
-  -w {9,10,11,12,13,14,15,16,17,18,19,20}, --winleng {9,10,11,12,13,14,15,16,17,18,19,20,21,22}
-                        Window Length: 9 to 22 (scan mode only), by default 9
+  -w {8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30}, --winleng {8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30}
+                        Window Length: 8 to 30 (scan mode only), by default 9
   -d {1,2}, --display {1,2}
                         Display: 1:Diabetic peptides only, 2: All peptides, by default 1
 ```
