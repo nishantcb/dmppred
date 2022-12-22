@@ -87,3 +87,7 @@ example_predict_output.csv      : Example output file for predict module
 example_scan_output.csv         : Example output file for scan module
 
 example_design_output.csv       : Example output file for design module
+
+# **Reference:**
+
+Kumar N, Patiyal S, Choudhury S, Tomer R, Dhall A, Raghava GPS. DMPPred: a tool for identification of antigenic regions responsible for inducing type 1 diabetes mellitus. Brief Bioinform. 2022;bbac525. <a href="https://pubmed.ncbi.nlm.nih.gov/36524996/">doi:10.1093/bib/bbac525</a>
